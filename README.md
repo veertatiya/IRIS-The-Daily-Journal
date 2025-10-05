@@ -177,7 +177,7 @@ IRIS/
 ## Credits
 
 * *Developed by:* Veer Tatiya
-* *LinkedIn:* [www.linkedin.com/in/veer-tatiya](www.linkedin.com/in/veer-tatiya)  
+* *LinkedIn:* [www.linkedin.com/in/veer-tatiya](https://www.linkedin.com/in/veer-tatiya)  
 * *GitHub:* [https://github.com/veertatiya](https://github.com/veertatiya)  
 * *Version:* v1.0.0  
 * *Contact:* veertatiya2004@gmail.com
@@ -187,5 +187,6 @@ Feel free to adapt or extend. PRs / refinements welcome.
 ## License
 
 This project is for educational/demo purposes. You may adapt and extend as needed.
+
 
 
