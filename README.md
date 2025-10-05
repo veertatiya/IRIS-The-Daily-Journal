@@ -173,32 +173,6 @@ IRIS/
    .\gradlew.bat lint test assembleDebug
    ```
 5. Submit a pull request with clear notes on changes and testing.
-
-## � Credits
-
-### Core Team
-- **Developer**: [Veer Tatiya](https://www.linkedin.com/in/veer-tatiya)
-  - Email: veertatiya2004@gmail.com
-  - LinkedIn: [linkedin.com/in/veer-tatiya](https://www.linkedin.com/in/veer-tatiya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Design Philosophy**: Inspired by mindfulness and compassionate self-reflection practices
-
-### Technologies & Libraries
-- **[Jetpack Compose](https://developer.android.com/jetpack/compose)** - Modern UI toolkit by Google
-- **[Room](https://developer.android.com/training/data-storage/room)** - Local database persistence
-- **[Hilt](https://dagger.dev/hilt/)** - Dependency injection framework
-- **[Coil](https://coil-kt.github.io/coil/)** - Image loading library for Android
-- **[OpenRouter](https://openrouter.ai/)** - AI model API gateway for IRIS reflections
-- **[Material Design 3](https://m3.material.io/)** - Design system and components
-- **[Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-overview.html)** - Asynchronous programming
-- **[WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)** - Background task scheduling
-
-### Special Thanks
-- The Android developer community for continuous support and inspiration
-- Mental health advocates who emphasize the importance of daily reflection
-- Open-source contributors whose libraries make projects like IRIS possible
-
-### Inspiration
-IRIS draws inspiration from the idea that technology can be a gentle companion in our journey of self-discovery and emotional well-being. The warm color palette and thoughtful interactions are designed to create a safe space for honest reflection.
 ---
 ## Credits
 
@@ -213,4 +187,5 @@ Feel free to adapt or extend. PRs / refinements welcome.
 ## License
 
 This project is for educational/demo purposes. You may adapt and extend as needed.
+
 
