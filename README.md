@@ -199,9 +199,18 @@ IRIS/
 
 ### Inspiration
 IRIS draws inspiration from the idea that technology can be a gentle companion in our journey of self-discovery and emotional well-being. The warm color palette and thoughtful interactions are designed to create a safe space for honest reflection.
-
-## �📄 License
-This project is currently private; add licensing information when you’re ready to publish.
-
 ---
-IRIS is built to feel like a trusted friend. Let’s keep crafting features that encourage openness, self-reflection, and gentle progress.
+## Credits
+
+* *Developed by:* Veer Tatiya
+* *LinkedIn:* [www.linkedin.com/in/veer-tatiya](www.linkedin.com/in/veer-tatiya)  
+* *GitHub:* [https://github.com/veertatiya](https://github.com/veertatiya)  
+* *Version:* v1.0.0  
+* *Contact:* veertatiya2004@gmail.com
+---
+Feel free to adapt or extend. PRs / refinements welcome.
+
+## License
+
+This project is for educational/demo purposes. You may adapt and extend as needed.
+
